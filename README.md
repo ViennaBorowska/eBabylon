@@ -16,7 +16,7 @@ Babylon is an e-commerce platform for users and brands, which also integrates a 
 - Stripe
 - Filepond
 
-You can visit the deployed application here - https://ebabylon.herokuapp.com/
+You can visit the deployed application here - https://ebabylon2022vb.herokuapp.com/
 
 ## Table of Contents
 
